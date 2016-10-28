@@ -45,4 +45,5 @@ HTML;
 
   print $output;
 }
-add_action( 'wp_head', 'blueblaze__favicons' );
+add_action( 'wp_head',    'blueblaze__favicons' );
+add_action( 'admin_head', 'blueblaze__favicons' );
