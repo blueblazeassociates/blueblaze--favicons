@@ -20,6 +20,8 @@
  * GitHub Branch:     master
  * Requires WP:       4.5
  * Requires PHP:      5.6
+ *
+ * Favicons, logos, etc are not licensed under GPL.  Traditional copyright and ownership applies.
  */
 
 /**
