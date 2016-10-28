@@ -1,5 +1,5 @@
 Blue Blaze Favicons
-============================
+===================
 
 Injects Blue Blaze favicons into the HTML head via the wp_head action.
 
