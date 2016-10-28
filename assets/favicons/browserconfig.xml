@@ -2,8 +2,8 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square150x150logo src="/wp-content/themes/mainwp-for-blueblaze/assets/mstile-150x150.png"/>
-      <TileColor>#ffffff</TileColor>
+      <square150x150logo src="/wp-content/plugins/blueblaze-favicons/assets/favicons/mstile-150x150.png?v=wAvrq8rOyQ"/>
+      <TileColor>#2e67b2</TileColor>
     </tile>
   </msapplication>
 </browserconfig>

@@ -1,13 +1,13 @@
 {
-	"name": "MainWP for Blue Blaze",
+	"name": "Blue Blaze WordPress Starter",
 	"icons": [
 		{
-			"src": "\/wp-content\/themes\/mainwp-for-blueblaze\/assets\/android-chrome-192x192.png",
+			"src": "\/wp-content\/plugins\/blueblaze-favicons\/assets\/favicons\/android-chrome-192x192.png?v=wAvrq8rOyQ",
 			"sizes": "192x192",
 			"type": "image\/png"
 		},
 		{
-			"src": "\/wp-content\/themes\/mainwp-for-blueblaze\/assets\/android-chrome-512x512.png",
+			"src": "\/wp-content\/plugins\/blueblaze-favicons\/assets\/favicons\/android-chrome-512x512.png?v=wAvrq8rOyQ",
 			"sizes": "512x512",
 			"type": "image\/png"
 		}
