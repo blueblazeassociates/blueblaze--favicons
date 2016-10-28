@@ -1,8 +1,8 @@
 {
-  "name"        : "blueblazeassociates/blueblaze--favicons",
-  "description" : "Injects Blue Blaze favicons into the HTML head via the wp_head action.",
+  "name"        : "blueblazeassociates/blueblaze-favicons",
+  "description" : "Blue Blaze Favicons.  Injects Blue Blaze favicons into the HTML head via the wp_head action.",
   "type"        : "wordpress-plugin",
-  "homepage"    : "https://github.com/blueblazeassociates/blueblaze--favicons",
+  "homepage"    : "https://github.com/blueblazeassociates/blueblaze-favicons",
   "license"     : "GPL-2.0+",
   "authors" : [{
       "name"     : "Blue Blaze Associates",
@@ -21,9 +21,9 @@
   "replace" : {
   },
   "require" : {
-    "php" : ">=5.6.24" 
+    "php" : ">=5.6.26" 
   },
   "config" : {
-    "php"        : "5.6.*"
+    "php" : "5.6.*"
   }
 }
