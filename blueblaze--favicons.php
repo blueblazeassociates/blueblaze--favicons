@@ -4,19 +4,19 @@
  *
  * @author  Blue Blaze Associates
  * @license GPL-2.0+
- * @link    https://github.com/blueblazeassociates/blueblaze--favicons
+ * @link    https://github.com/blueblazeassociates/blueblaze-favicons
  */
 
-/**
+/*
  * Plugin Name:       Blue Blaze Favicons
- * Plugin URI:        https://github.com/blueblazeassociates/blueblaze--favicons
+ * Plugin URI:        https://github.com/blueblazeassociates/blueblaze-favicons
  * Description:       Injects Blue Blaze favicons into the HTML head via the wp_head action.
  * Version:           0.0.1
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
- * GitHub Plugin URI: https://github.com/blueblazeassociates/blueblaze--favicons
+ * GitHub Plugin URI: https://github.com/blueblazeassociates/blueblaze-favicons
  * Requires WP:       4.5
  * Requires PHP:      5.6
  */
