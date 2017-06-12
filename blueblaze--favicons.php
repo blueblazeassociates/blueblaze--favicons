@@ -11,7 +11,7 @@
  * Plugin Name:       Blue Blaze Favicons
  * Plugin URI:        https://github.com/blueblazeassociates/blueblaze-favicons
  * Description:       Injects Blue Blaze favicons into the HTML head via the wp_head action.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later

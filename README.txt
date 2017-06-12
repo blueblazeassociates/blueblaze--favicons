@@ -17,6 +17,9 @@ Favicon package was constructed with http://realfavicongenerator.net/.
 
 == Changelog ==
 
+= 1.0.1 =
+* Tweaking support files.
+
 = 1.0.0 =
 * Regenerating favicons from realfavicongenerator.net.
 * Adding favicons to wp-admin via admin_head action.
